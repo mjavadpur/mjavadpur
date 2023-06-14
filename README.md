@@ -45,10 +45,10 @@
 
 <p align="center">
   <a target=_blank href="mailto:mjavadpur@gmail.com"><img height = 50 width = 50 src="images/gmail.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target=_blank href="https://www.linkedin.com/in/mjavadpur/"><img height = 50 width = 50 src="images/linkedin.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target=_blank href="https://www.linkedin.com/in/mohammad-javadpur-9a821bb6/"><img height = 50 width = 50 src="images/linkedin.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target=_blank href="https://www.facebook.com/mjavadpur"><img height = 50 width = 50 src="images/facebook.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target=_blank href="https://www.twitter.com/akash435"><img height = 50 width = 50 src="images/twitter.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- <a target=_blank href="https://codeforces.com/profile/aakashrajak02"><img height = 50 width = 50 src="images/codeforces1.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target=_blank href="https://www.twitter.com/mjavadpur"><img height = 50 width = 50 src="images/twitter.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- <a target=_blank href="https://codeforces.com/profile/mjavadpur"><img height = 50 width = 50 src="images/codeforces1.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target=_blank href="https://linkedin.com/mjavadpur/"><img height = 50 width = 50 src="images/linkedin.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
   
 </p>
