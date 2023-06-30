@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mjavadpur in social networks an g!.
 - 👀 I’m interested in AI.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on people's working on AI.
-- 📫 How to reach me @mjavadpur in social networks an g!.
+- 🌱 I’m currently learning Digital Image Processing with Python.
+- 💞️ I’m looking to collaborate with people's working on AI.
+- 📫 You can reach me @mjavadpur on social networks an g!.
 
 # Hi there, I am Mohammad Javadpur 👋
 
